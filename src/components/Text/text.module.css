@@ -1,0 +1,42 @@
+.text{
+    width: 100%;
+    margin-top: 136px;
+}
+
+.text h2{
+    color: white;
+    font-family:roboto;
+    font-size: 30px;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.rev p{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+    font-family: 'Montserrat', sans-serif;
+}
+.urano{
+    display: flex;
+    justify-content: center;
+}
+
+.started{
+    display: flex;
+    justify-content: center;
+}
+.started button{
+    background-color: blue;
+    height: 30px;
+    width: 160px;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    margin:3rem;
+    left: 0;
+    font-weight: 200;
+    align-items:center;
+}
